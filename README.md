@@ -2,12 +2,11 @@
 hi, I'm [VishalMehra](https://github.com/Vishal01Mehra), a Professional UAV/Drone developer and a freelance Hardware engineer from India with experience of 11 years. My passion for Hardware/software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/Vishal01Mehra/Vishal01Mehra/blob/main/Resources/drone.gif?raw=true" width="500" height="250" />
   
 - 💼 any freelance work? do reach, [email](mailto:vishal01mehra@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
+
+  <img align="right" alt="GIF" src="https://github.com/Vishal01Mehra/Vishal01Mehra/blob/main/Resources/drone.gif?raw=true" width="500" height="250" />
 
 **languages and tools:**  
 
