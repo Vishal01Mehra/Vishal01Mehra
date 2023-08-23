@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/Vishal01Mehra/Vishal01Mehra/blob/main/Resources/drone.gif?raw=true" width="400" height="200" />
+<img align="right" alt="GIF" src="https://github.com/Vishal01Mehra/Vishal01Mehra/blob/main/Resources/drone.gif?raw=true" width="380" height="200" />
 
 I'm [VishalMehra](https://github.com/Vishal01Mehra), a Professional UAV/Drone developer and a freelance Hardware engineer from India with experience of 11 years. My passion for Hardware/software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
