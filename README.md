@@ -6,7 +6,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:vishal01mehra@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
-  <img align="right" alt="GIF" src="https://github.com/Vishal01Mehra/Vishal01Mehra/blob/main/Resources/drone.gif?raw=true" width="500" height="250" />
+  <img align="right" alt="GIF" src="https://github.com/Vishal01Mehra/Vishal01Mehra/blob/main/Resources/drone.gif?raw=true" width="480" height="280" />
 
 **languages and tools:**  
 
@@ -23,5 +23,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 📈 my github stats
-
 <p align="Left"> <img src="https://github-readme-stats.vercel.app/api?username=vishal01mehra&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
